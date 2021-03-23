@@ -1,0 +1,9 @@
+{
+	"name": "MyNewADF0322",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "511810c9-79cc-4556-8503-633fdc1bfbfd",
+		"tenantId": "ef8e9f2f-a401-4783-99a0-956806b16b94"
+	}
+}
